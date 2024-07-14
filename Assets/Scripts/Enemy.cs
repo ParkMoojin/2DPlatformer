@@ -7,6 +7,7 @@ public class Enemy : MonoBehaviour
 
     public int hp = 3;
     public float speed = 3;
+
     public Collider2D frontBottomCollider;
     public CompositeCollider2D terrainCollider;
 
